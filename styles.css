@@ -12,8 +12,10 @@ h1{
 	background-color:white;
 	margin-bottom:25px;
 }
-
-
+.name{
+	text-align:right;
+	font-style:italic;
+}
 #Second_box{
 	margin-left:35px;
 	padding:20px;
