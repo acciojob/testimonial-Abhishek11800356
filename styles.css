@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+.mainContainer{
+	padding:10px;
+	background-color:#F5F5F5;
+}
+h1{
+	padding:25px 25px 0px 25px;
+}
+#first_box{
+	padding:20px;
+	margin-left:35px;
+	border:solid 1px gray;
+	background-color:white;
+	margin-bottom:25px;
+}
+
+
+#Second_box{
+	margin-left:35px;
+	padding:20px;
+	border:solid 1px gray;
+	background-color:white;
+}
+
+
+
